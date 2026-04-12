@@ -88,8 +88,8 @@ github.com/slidebolt/sb-runtime v1.0.6 h1:Kxdgvx4FGiC7NvE+S/QtVituyqBh+Typmop8Tz
 github.com/slidebolt/sb-runtime v1.0.6/go.mod h1:094+7ODH66/fYjC8PSmuw1skJpML2hwrb/vXl3Zs9uw=
 github.com/slidebolt/sb-storage-sdk v1.0.6 h1:o8Ci4HRO9TSOBk7ACvB3v3Yxf/HENWPyML25MgLEaQs=
 github.com/slidebolt/sb-storage-sdk v1.0.6/go.mod h1:oJmgetl2Ghu/CiOng7dtyETRT+lA2lxFDfKdTaY3Jx0=
-github.com/slidebolt/sb-storage-server v1.0.7 h1:/8ieYwiyyFdGqqI6m36wy3OXTx1crYGJ71ASu4mXS8M=
-github.com/slidebolt/sb-storage-server v1.0.7/go.mod h1:7xhZRaUFerqRbt/TMDVB8IdvCj82nUcgHnlGtU7sFY4=
+github.com/slidebolt/sb-storage-server v1.0.8 h1:RBFiVysIJNQ1N9P7bl1IdjcSrIKsuiCpi0O2Nc2p+T0=
+github.com/slidebolt/sb-storage-server v1.0.8/go.mod h1:7xhZRaUFerqRbt/TMDVB8IdvCj82nUcgHnlGtU7sFY4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
